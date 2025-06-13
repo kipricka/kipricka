@@ -39,5 +39,5 @@ cccccccc;.:odl:.;cccccccccccccc:,.       Website: douxx.tech
 
 ![yeaa](noskid/certificate.png)
 <p align="center">
-	 <img src="https://noskid.today/badge/470x200/?repo=kipricka/kipricka" alt="NoSkid Verification">
+	 <img src="https://noskid.today/badge/470x200/?repo=kipricka/kipricka&cache=true" alt="NoSkid Verification">
 </p>
